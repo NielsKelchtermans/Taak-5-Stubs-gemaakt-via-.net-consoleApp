@@ -20,7 +20,8 @@ namespace TDDoefening
         {
             get
             {
-                throw new NotImplementedException();
+                //throw new NotImplementedException();
+                return opbrengstDAO.TotaleOpbrengst() - kostDAO.TotaleKost();
             }
         }
             

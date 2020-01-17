@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDoefening", "TDDoefening.csproj", "{F69EF099-B1F1-4715-ACE3-D027424B2210}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDoefeningUnitTest", "..\WinstServiceUnitTest\TDDoefeningUnitTest.csproj", "{72717394-C083-426E-886A-6BCA8B0C4243}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinstTest", "WinstTest\WinstTest.csproj", "{42ACD535-D8DC-4174-BF6D-6EC712979544}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{F69EF099-B1F1-4715-ACE3-D027424B2210}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F69EF099-B1F1-4715-ACE3-D027424B2210}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F69EF099-B1F1-4715-ACE3-D027424B2210}.Release|Any CPU.Build.0 = Release|Any CPU
-		{72717394-C083-426E-886A-6BCA8B0C4243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{72717394-C083-426E-886A-6BCA8B0C4243}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{72717394-C083-426E-886A-6BCA8B0C4243}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{72717394-C083-426E-886A-6BCA8B0C4243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42ACD535-D8DC-4174-BF6D-6EC712979544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42ACD535-D8DC-4174-BF6D-6EC712979544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42ACD535-D8DC-4174-BF6D-6EC712979544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42ACD535-D8DC-4174-BF6D-6EC712979544}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
